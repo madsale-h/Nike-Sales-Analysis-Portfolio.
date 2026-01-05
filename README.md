@@ -17,7 +17,7 @@ Hasil analisis divisualisasikan menggunakan Dashboard Interaktif untuk membantu 
 
    
 ## 📊 Dashboard Preview
-![dashboard_previews](https://github.com/user-attachments/assets/cea23167-e177-40c3-bb3b-d918830f9c88]
+![Dashboard Screenshot](dashboard_previews.jpeg)
 
 
 ## 📂 Files in this Repository
